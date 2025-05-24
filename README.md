@@ -1,1 +1,1 @@
-In fact the core parts of this course is the `Guidance` section and the `Iterative` section, which demonstrate the principle of design a prompt and the procedure of iteratively optimizing it untill you find the LLMs perform pretty well on the task you ordered them to complete.
+In fact the core parts of this course is the `Guidance` section and the `Iterative` section, which demonstrate the principles of designing a prompt and the procedure of iteratively optimizing it untill you find the LLMs perform pretty well on the task you ordered them to complete.
